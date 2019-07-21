@@ -3,7 +3,7 @@ import SaveBtn from "../SaveBtn"
 function BookCard(props) {
   return (
     
-    <div class="card">
+    <div className="card">
       <div className="card-body">{props.children}</div>
      
        </div>
